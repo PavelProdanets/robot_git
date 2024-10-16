@@ -6,7 +6,8 @@ priceData = {
     'coke': 2,
     'bread': 2,
     'apple': 3,
-    'onion': 3
+    'onion': 3,
+    'meat': 5
 }
 
 def enterProducts():
