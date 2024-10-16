@@ -1,3 +1,3 @@
 def newFunction():
-    someData = "Test String"
+    someData = "Test String 123"
     print(someData)
